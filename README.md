@@ -1,1 +1,1 @@
-# Repositories for Activity 9.1 and 9.2
+# Repositories for Activities 9.1 and 9.2
